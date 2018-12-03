@@ -1,1 +1,1 @@
-document.write('teste');
+console.log('teste thiago');
